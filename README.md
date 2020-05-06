@@ -1,7 +1,7 @@
 # PCA-on-Breast-Cancer-Data
 Principal Component Analysis Example Notebook 
 
-## PCA(Principal Component Analysis)##
+## PCA(Principal Component Analysis)
 It is not an algorithm of machine learning. It is just a technique of dimensionality reduction(From multiple number of independent features to less number of independent features) using new vector space.
 The reason is that more dimensions may lead the dataset to suffer from underfitting.
 
